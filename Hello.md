@@ -2,6 +2,6 @@
 
 ## How are you?
 
-## We are fine!
+## We are fine
 
-## Very fine!
+## Very fine
